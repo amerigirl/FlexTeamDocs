@@ -1,9 +1,8 @@
-<h1 style="margin: 0; line-height: 1;">Flex Team</h1> 
-<h5 style="margin: 0; line-height: 1;">SharePoint Site 
-Findings</h5> 
-
 <br>
-<p style="font-size: 14px;">Prepared by: Be-Asia McKerracher 3/31/2025</p>    
+<div style="text-align:center">
+<h1>Flex SharePoint Site Findings</h1> 
+<p style="font-size: 14px;">Prepared by: Be-Asia McKerracher 3/31/2025</p>
+</div>
 
 <br>
 
@@ -18,3 +17,6 @@ This document outlines the findings based on careful review of the Flex Team Sha
 
 ##### Areas of Strength
 
+![Image of main page (with analytics)](./images/imageAnalytics.png){width=250 height=250}
+
+<p style="font-size: 9px; font-weight: bold; line-height:0; margin-Left:25px" >Fig. 1: Image of main page (with analytics)</p>
