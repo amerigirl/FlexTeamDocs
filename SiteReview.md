@@ -50,10 +50,31 @@ This document outlines the findings based on careful review of the Flex Team Sha
 ##### 2.2 Standout Areas of High Success
 
 <br>
-<div>
-<img src="./images/contactPage.png" height="250" width="250" style="outline: 1px solid black"/>
-<p style="font-Size: 9px; font-weight:bold; line-height: 1;">Fig. 3: Contact page</P>
+
+<div style="display: flex; gap: 10px; margin-left: 2rem; background: none;">
+  <div style="background: transparent;">
+    <img 
+      src="./images/contactPage.png" 
+      height="250" 
+      width="250" 
+      style="outline: 1px solid black; background: transparent;"
+    />
+    <p style="font-size: 9px; font-weight: bold; line-height: 1; background: transparent;">
+      Fig. 3: Contact Us page
+    </p>
+  </div>
+  <div style="background: transparent;">
+    <p style="background: transparent;">
+      The Contact Us page is extremely well developed:
+    </p>
+    <ol style="background: transparent;">
+      <li>Eye-catching banner image</li>
+      <li>Well organized information and well-placed links</li>
+      <li>Central image of the team</li>
+    </ol>
+  </div>
 </div>
+
 
 <br>
 
