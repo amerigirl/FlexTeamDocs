@@ -21,7 +21,7 @@ This document outlines the findings based on careful review of the Flex Team Sha
 
 <br>
 
-<div style="display: flex; gap: 5rem; justify-content: center; margin-Left: 2rem;">
+<div style="display: flex; gap: 3rem; justify-content: center; margin-Left: 2rem;">
   <div>
     <img src="./images/imageAnalytics.png" alt="Image of main page (with analytics)" width="250" height="250">
     <p style="font-size: 9px; font-weight: bold; line-height:0;">Fig. 1: Image of main page (with analytics)</p>
@@ -39,4 +39,8 @@ This document outlines the findings based on careful review of the Flex Team Sha
 ##### 2.1 Areas Of Strength
 <br>
 <p>While the site is in need of updating, the site itself is functional and being used according to its stated purpose.  There are approximately 16 people who currently have access to the site.  Analytics show usage of the last 90 days, though it is small in comparison to desired goals. A few items to note:
+
+1. All links on the side panel are functioning properly and either open to a new tab or open in the same window.  The image above shows 8 links including the home link and all are functional. All links in the helpful sites are also working.
+2. Each card on the main page is aesthetically pleasing for clients and is working as expected, opening to either training or appointment setups.
+3. The video at the bottom, which focuses on teaching in Flex mode, is opening and working properly. 
 </p>
