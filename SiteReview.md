@@ -20,10 +20,9 @@ This document outlines the findings based on careful review of the Flex Team Sha
 <br>
 
 ##### 2.1 Areas Of Strength
-
 <br>
 
-<div style="display: flex; gap: 2rem;">
+<div style="display: flex; gap: 5rem; justify-content: center; margin-Left: 2rem;">
   <div>
     <img src="./images/imageAnalytics.png" alt="Image of main page (with analytics)" width="250" height="250">
     <p style="font-size: 9px; font-weight: bold; line-height:0;">Fig. 1: Image of main page (with analytics)</p>
@@ -31,7 +30,7 @@ This document outlines the findings based on careful review of the Flex Team Sha
   <br>
   
   <div>
-    <img src="./images/imageAnalytics.png" alt="Image of main page (with analytics)" width="250" height="250">
-    <p style="font-size: 9px; font-weight: bold; line-height:0;">Fig. 1: Image of main page (with analytics)</p>
+    <img src="./images/mainPageImage.png" alt="Image of main page (with analytics)" width="250" height="250">
+    <p style="font-size: 9px; font-weight: bold; line-height:0;">Fig. 2: Image of main page</p>
   </div>
 </div>
