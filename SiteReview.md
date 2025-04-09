@@ -19,7 +19,6 @@ This document outlines the findings based on careful review of the Flex Team Sha
 
 <br>
 
-##### 2.1 Areas Of Strength
 <br>
 
 <div style="display: flex; gap: 5rem; justify-content: center; margin-Left: 2rem;">
@@ -34,3 +33,7 @@ This document outlines the findings based on careful review of the Flex Team Sha
     <p style="font-size: 9px; font-weight: bold; line-height:0;">Fig. 2: Image of main page</p>
   </div>
 </div>
+
+<br>
+
+##### 2.1 Areas Of Strength
