@@ -15,13 +15,23 @@ This document outlines the findings based on careful review of the Flex Team Sha
 
 <br>
 
+#### 2. Findings
 
-#### 2.  Findings  
 <br>
 
 ##### 2.1 Areas Of Strength
+
 <br>
 
-![Image of main page (with analytics)](./images/imageAnalytics.png){width=250 height=250}
-
-<p style="font-size: 9px; font-weight: bold; line-height:0; margin-Left:25px" >Fig. 1: Image of main page (with analytics)</p>
+<div style="display: flex; gap: 2rem;">
+  <div>
+    <img src="./images/imageAnalytics.png" alt="Image of main page (with analytics)" width="250" height="250">
+    <p style="font-size: 9px; font-weight: bold; line-height:0;">Fig. 1: Image of main page (with analytics)</p>
+  </div>
+  <br>
+  
+  <div>
+    <img src="./images/imageAnalytics.png" alt="Image of main page (with analytics)" width="250" height="250">
+    <p style="font-size: 9px; font-weight: bold; line-height:0;">Fig. 1: Image of main page (with analytics)</p>
+  </div>
+</div>
