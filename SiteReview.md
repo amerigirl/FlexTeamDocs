@@ -51,34 +51,28 @@ This document outlines the findings based on careful review of the Flex Team Sha
 
 <br>
 
-<div style="display: flex; gap: 10px; margin-left: 2rem; background: none;">
-  <div style="background: transparent;">
-    <img 
-      src="./images/contactPage.png" 
-      height="250" 
-      width="250" 
-      style="outline: 1px solid black; background: transparent;"
-    />
-    <p style="font-size: 9px; font-weight: bold; line-height: 1; background: transparent;">
-      Fig. 3: Contact Us page
-    </p>
+<div style="display: flex; gap: 10px; margin-left: 2rem; background:none">
+  <div style="background:transparent">
+    <img src="./images/contactPage.png" height="250" width="250" style="outline: 1px solid black;" />
+    <p style="font-size: 9px; font-weight: bold; line-height: 1; ">Fig. 3: Contact Us page</p>
   </div>
-  <div style="background: transparent;">
-    <p style="background: transparent;">
-      The Contact Us page is extremely well developed:
-    </p>
-    <ol style="background: transparent;">
-      <li>Eye-catching banner image</li>
-      <li>Well organized information and well-placed links</li>
-      <li>Central image of the team</li>
-    </ol>
+  <div style="background:none">
+  <p>
+    The Contact Us page is extremely well developed:
+    
+    1. Eye-catching banner image
+    2. Well organized information and well-placed links
+    3. Central image of the team
+  </p>
   </div>
 </div>
-
 
 <br>
 
 <div>
-<img src="./images/studentInnovations.png" height="250" width="250" style="outline: 1px solid black"/>
+<div style=" margin-left: 2rem;">
+<img src="./images/studentInnovations.png" height="250" width="250" style="outline: 1px solid black;"/>
 <p style="font-Size: 9px; font-weight:bold; line-height: 1;">Fig. 4: Student Innovation page</P>
+</div>
+
 </div>
