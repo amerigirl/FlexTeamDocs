@@ -37,3 +37,6 @@ This document outlines the findings based on careful review of the Flex Team Sha
 <br>
 
 ##### 2.1 Areas Of Strength
+<br>
+<p>While the site is in need of updating, the site itself is functional and being used according to its stated purpose.  There are approximately 16 people who currently have access to the site.  Analytics show usage of the last 90 days, though it is small in comparison to desired goals. A few items to note:
+</p>
