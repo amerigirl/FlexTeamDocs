@@ -1,17 +1,14 @@
-<br>
-<div style="text-align:center">
-<h1>Flex SharePoint Site Findings</h1> 
-<p style="font-size: 14px; line-height:0">Prepared by: Be-Asia McKerracher 3/31/2025</p>
-</div>
+
+# Flex SharePoint Site Findings
+Prepared by: Be-Asia McKerracher 3/31/25
 
 <br>
 <br>
 
 #### 1. Overview
 
-<p style="font-size: 14px">
 This document outlines the findings based on careful review of the Flex Team Sharepoint site.  The goal of this document is to provide details to the team about aspects of the site that are both aesthetically pleasing and functional, while also focusing on possible areas of growth/updating for the site.  
-</p>
+
 
 <br>
 
@@ -51,26 +48,28 @@ This document outlines the findings based on careful review of the Flex Team Sha
 
 <br>
 
-<div style="display: flex; gap: 10px; margin-left: 2rem; background:none">
-  <div style="background:transparent">
+<div style="display: flex; gap: 10px; margin-left: 2rem; background-color: none;">
+  <div>
     <img src="./images/contactPage.png" height="250" width="250" style="outline: 1px solid black;" />
     <p style="font-size: 9px; font-weight: bold; line-height: 1; ">Fig. 3: Contact Us page</p>
   </div>
-  <div style="background:none">
-  <p>
-    The Contact Us page is extremely well developed:
+
+  <div>
+    <p>
+      The Contact Us page is extremely well developed:
     
-    1. Eye-catching banner image
-    2. Well organized information and well-placed links
-    3. Central image of the team
-  </p>
+       1. Eye-catching banner image
+       2. Well organized information and well-placed links
+       3. Central image of the team
+ </p>
   </div>
+
 </div>
 
 <br>
 
-<div>
-<div style=" margin-left: 2rem;">
+<div style="display: flex;">
+<div style="  margin-left: 2rem;">
 <img src="./images/studentInnovations.png" height="250" width="250" style="outline: 1px solid black;"/>
 <p style="font-Size: 9px; font-weight:bold; line-height: 1;">Fig. 4: Student Innovation page</P>
 </div>
