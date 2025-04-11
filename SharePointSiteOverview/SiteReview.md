@@ -1,21 +1,16 @@
-
 # Flex SharePoint Site Findings
+
 Prepared by: Be-Asia McKerracher 3/31/25
 
-<br>
 <br>
 
 #### 1. Overview
 
-This document outlines the findings based on careful review of the Flex Team Sharepoint site.  The goal of this document is to provide details to the team about aspects of the site that are both aesthetically pleasing and functional, while also focusing on possible areas of growth/updating for the site.  
-
+This document outlines the findings based on careful review of the Flex Team Sharepoint site. The goal of this document is to provide details to the team about aspects of the site that are both aesthetically pleasing and functional, while also focusing on possible areas of growth/updating for the site.
 
 <br>
 
 #### 2. Findings
-
-<br>
-<br>
 
 <div style="display: flex; gap: 3rem; justify-content: center; margin-Left: 2rem;">
   <div>
@@ -48,30 +43,30 @@ This document outlines the findings based on careful review of the Flex Team Sha
 
 <br>
 
-<div style="display: flex; gap: 10px; margin-left: 2rem; background-color: none;">
+<div style="display: flex; gap: 3rem; justify-content: center; margin-Left: 2rem;">
   <div>
-    <img src="./images/contactPage.png" height="250" width="250" style="outline: 1px solid black;" />
-    <p style="font-size: 9px; font-weight: bold; line-height: 1; ">Fig. 3: Contact Us page</p>
+    <img src="./images/contactPage.png" alt="Contact Us Page" width="300" height="250" style="outline: .5px solid black">
+    <p style="font-size: 9px; font-weight: bold; line-height:0;">Fig. 3: Contact Us Page</p>
   </div>
-
+  <br>
+  
   <div>
-    <p>
-      The Contact Us page is extremely well developed:
-    
-       1. Eye-catching banner image
-       2. Well organized information and well-placed links
-       3. Central image of the team
- </p>
+    <img src="./images/studentInnovations.png" alt="Image of main page (with analytics)" width="300" height="250">
+    <p style="font-size: 9px; font-weight: bold; line-height:0;">Fig. 4: Student Innovations Page</p>
   </div>
-
 </div>
+
+
+<p>
+The Contact Us and the Student Innovation pages are extremely well developed, containing:
+   
+  1. Eye-catching banners and centered images,
+  2. Well organized information and well-placed links, and
+  3. An overall structure and color scheme that is aesthetically pleasing.
+</p>
 
 <br>
 
-<div style="display: flex;">
-<div style="  margin-left: 2rem;">
-<img src="./images/studentInnovations.png" height="250" width="250" style="outline: 1px solid black;"/>
-<p style="font-Size: 9px; font-weight:bold; line-height: 1;">Fig. 4: Student Innovation page</P>
-</div>
+
 
 </div>
