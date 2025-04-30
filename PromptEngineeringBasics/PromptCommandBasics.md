@@ -1,5 +1,5 @@
 # Asking an AI (Prompt Engineering)
-Getting help from an AI application (like chatGPT) is nearly a standard at this point. Using AI to help you teach and learn is a great way to integrate technology into your teaching practices and help you create lesson plans and targeted response questions quickly!
+Getting help from an AI application (like ChatGPT) is nearly a standard at this point. Using AI to help you teach and learn is a great way to integrate technology into your teaching practices and help you create lesson plans and targeted response questions quickly!
 
 ### Cool Things an AI can do for you as an educator!
 
@@ -26,7 +26,7 @@ Jeff breaks down creating the perfect question to 6 basic components:
 <br>
 <br>
 
-#### A few considerations about AI prompting
+#### When You Ask an AI for Help...
 
 Here are a few things to keep in mind as you ask questions to any AI:
 
@@ -38,7 +38,7 @@ Here are a few things to keep in mind as you ask questions to any AI:
 
 #### Great AI tools for educators and students!
 
-This classpoint video focuses on 11 tools that you can research and learn how to use to make your teaching more efficient, your classroom more engaging, and your students more productive!
+This Classpoint video focuses on 11 tools that you can research and learn how to use to make your teaching more efficient, your classroom more engaging, and your students more productive!
 
 <iframe width="260" height="200" src="https://www.youtube.com/embed/KG4_CYbVpTo" title="Best tools for teachers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
