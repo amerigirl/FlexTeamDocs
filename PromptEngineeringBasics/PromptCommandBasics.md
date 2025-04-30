@@ -34,4 +34,11 @@ Here are a few things to keep in mind as you ask questions to any AI:
 2. Since AI uses learning models based on the internet, sometimes it gets things wrong.  If you are looking to share facts based on an AI prompt, be open to checking for accuracy. 
 3. Ask questions!  It's ok to ask clarifying questions, or cut and paste response sections BACK into the AI and say "can you explain this in detail?" 
 
+<br>
+
+#### Great AI tools for educators and students!
+
+This classpoint video focuses on 11 tools that you can research and learn how to use to make your teaching more efficient, your classroom more engaging, and your students more productive!
+
+<iframe width="260" height="200" src="https://www.youtube.com/embed/KG4_CYbVpTo" title="Best tools for teachers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
